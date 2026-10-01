@@ -1,19 +1,16 @@
 <h1 align="center">Preyas Patel</h1>
 <p align="center">
-  Cloud &amp; full-stack developer · Computer Science graduate, Algoma University<br/>
-  Brampton, Ontario 🇨🇦
+  Cloud and full-stack developer. Computer Science graduate from Algoma University.<br/>
+  Brampton, Ontario
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=520&lines=Building+on+AWS%2C+GCP+%26+Azure;Full-stack+apps+%26+dashboards;Head+of+R%26D+%40+AWS+Cloud+Club" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=520&lines=Cloud+on+AWS%2C+GCP+and+Azure;Full-stack+apps+and+dashboards;Head+of+R%26D%2C+AWS+Cloud+Club" alt="typing intro" />
 </p>
 
 ## About
 
-- ☁️ **Cloud infrastructure** across AWS, GCP and Azure
-- 🧩 **Full-stack development** with TypeScript, Python, JavaScript and Java
-- 🔬 Head of R&amp;D, AWS Cloud Club at Sheridan College
-- 🌱 Currently learning Java and going deeper into data science
+I graduated in April 2026 with a Computer Science degree. I work with AWS, GCP and Azure, build full-stack apps in TypeScript, Python, JavaScript and Java, and lead R&D for the AWS Cloud Club at Sheridan College. I'm currently learning Java and I'm interested in data science.
 
 ## Stack
 
@@ -38,5 +35,5 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Preyas552&hide_border=true&bg_color=00000000&color=8b949e&line=58a6ff&point=ffffff&area=true" alt="Contribution graph" />
 
 <p align="center">
-  <a href="https://github.com/Preyas552?tab=repositories">All repositories →</a>
+  <a href="https://github.com/Preyas552?tab=repositories">All repositories</a>
 </p>
